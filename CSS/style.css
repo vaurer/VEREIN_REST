@@ -1,0 +1,26 @@
+.col-sm{
+    border-style: solid;
+    border-color: black;
+}
+.container{
+    margin-top: 2em;
+}
+input{
+    align-items: center;
+    justify-content: center;
+}
+
+.wrapper {
+    min-height: 100%;
+    margin: -240px auto 0;
+   
+}
+.col-fluid{
+    border-style: solid;
+    border-color: black;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  $enable-shadows
