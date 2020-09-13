@@ -24,4 +24,11 @@ table, th, td {
     border-collapse: collapse;
   }
 
-
+  footer {
+    margin-top: 2em;
+    text-align: center;
+    padding: 3px;
+    background-color: #343a40;
+    color: white;
+    display: block;
+  }
